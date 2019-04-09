@@ -32,6 +32,7 @@ public class User {
     public void addBike ( Bike b){
         this.listaBike.add(b);
     }
+
     public LinkedList<Bike> consultaBike(){
 
         return this.listaBike;

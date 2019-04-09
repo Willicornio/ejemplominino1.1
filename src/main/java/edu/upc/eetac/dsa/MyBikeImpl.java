@@ -132,7 +132,8 @@ public static MyBike instance;
         }
         if(user!=null){
             if (sta!=null){
-                b = sta.consultaBikes().getFirst();
+                b = sta.consultaBikes().poll();
+                user.addBike(b);
             }
             else {throw  new StationNotFoundException();}
 

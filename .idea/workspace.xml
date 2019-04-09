@@ -8,26 +8,11 @@
       <change afterPath="$PROJECT_DIR$/../prueba minimo1/.idea/libraries/Maven__junit_junit_4_9.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../prueba minimo1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../prueba minimo1/prueba minimo1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minimobicis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/minimobicis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyBike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyBikeImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Station.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StationFullException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StationNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UserNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyBikeImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyBikeImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyBikeImpl$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyBikeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyBikeImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Station.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MyBikeImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MyBikeImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBikeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBikeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MyBikeImplTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,19 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1173">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="221">
+              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +39,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBikeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1690">
-              <caret line="151" lean-forward="true" selection-start-line="151" selection-end-line="151" />
+            <state relative-caret-position="34">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
               <folding>
-                <element signature="e#4197#4203#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2773#2779#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,13 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-              <folding>
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -89,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Station.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="616">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -98,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Bike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -107,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBike.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
+            <state relative-caret-position="85">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
@@ -116,11 +88,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/services/MyBikeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+            <state relative-caret-position="602">
+              <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1437#1449#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,17 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="106">
+              <caret line="99" column="26" lean-forward="true" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -180,15 +142,17 @@
         <option value="$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/StationFullException.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/services/MyBikeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu.eetac.dsa/services/MyBikeService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/services/MyBikeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBikeImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +207,13 @@
               <item name="minimobicis" type="b2602c69:ProjectViewProjectNode" />
               <item name="minimobicis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="minimobicis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minimobicis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,17 +223,24 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="minimobicis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minimobicis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554638169169" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554737881911" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prueba minimo1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -278,58 +257,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyBikeImplTest.testAddBike">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="JUnit.MyBikeImplTest.testAddBikeInSatationNotFoundExcecption">
+    <configuration name="MyBikeImplTest.testAddBike (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="minimobicis" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyBikeImplTest.testAddBike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="minimobicis" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBikeImplTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.upc.eetac.dsa" />
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.MyBikeImplTest" />
       <option name="METHOD_NAME" value="testAddBike" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBikeImplTest.testAddStations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyBikeImplTest.testAddBikeInSatationNotFoundExcecption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="minimobicis" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBikeImplTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.upc.eetac.dsa" />
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.MyBikeImplTest" />
+      <option name="METHOD_NAME" value="testAddBikeInSatationNotFoundExcecption" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBikeImplTest.testAddStations (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minimobicis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.upc.eetac.dsa" />
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.MyBikeImplTest" />
       <option name="METHOD_NAME" value="testAddStations" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyBikeImplTest.testAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyBikeImplTest.testAddUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="minimobicis" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MyBikeImplTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.upc.eetac.dsa" />
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.MyBikeImplTest" />
       <option name="METHOD_NAME" value="testAddUser" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyBikeImplTest.testgetBike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="minimobicis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upc.eetac.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.upc.eetac.dsa" />
+      <option name="MAIN_CLASS_NAME" value="edu.upc.eetac.dsa.MyBikeImplTest" />
+      <option name="METHOD_NAME" value="testgetBike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.MyBikeImplTest.testAddBike" />
-      <item itemvalue="JUnit.MyBikeImplTest.testAddStations" />
-      <item itemvalue="JUnit.MyBikeImplTest.testAddUser" />
+      <item itemvalue="JUnit.MyBikeImplTest.testAddBike (1)" />
+      <item itemvalue="JUnit.MyBikeImplTest.testgetBike" />
+      <item itemvalue="JUnit.MyBikeImplTest.testAddUser (1)" />
+      <item itemvalue="JUnit.MyBikeImplTest.testAddStations (1)" />
+      <item itemvalue="JUnit.MyBikeImplTest.testAddBikeInSatationNotFoundExcecption" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyBikeImplTest.testAddBike" />
-        <item itemvalue="JUnit.MyBikeImplTest.testAddStations" />
-        <item itemvalue="JUnit.MyBikeImplTest.testAddUser" />
+        <item itemvalue="JUnit.MyBikeImplTest.testAddBikeInSatationNotFoundExcecption" />
+        <item itemvalue="JUnit.MyBikeImplTest.testgetBike" />
+        <item itemvalue="JUnit.MyBikeImplTest.testAddBike (1)" />
+        <item itemvalue="JUnit.MyBikeImplTest.testAddStations (1)" />
+        <item itemvalue="JUnit.MyBikeImplTest.testAddUser (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -347,54 +369,53 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyBikeImplTest_testAddUser - 2019.04.06 at 14h 28m 10s.xml">
-      <configuration name="MyBikeImplTest.testAddUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddUser - 2019.04.07 at 10h 45m 05s.xml">
-      <configuration name="MyBikeImplTest.testAddUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddStations - 2019.04.07 at 10h 46m 18s.xml">
-      <configuration name="MyBikeImplTest.testAddStations" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 46m 46s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 48m 13s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 50m 04s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 51m 23s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 52m 24s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 53m 24s.xml">
-      <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyBikeImplTest_testAddBike - 2019.04.07 at 10h 58m 14s.xml">
       <configuration name="MyBikeImplTest.testAddBike" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyBikeImplTest_testAddBike_(1) - 2019.04.08 at 12h 40m 25s.xml">
+      <configuration name="MyBikeImplTest.testAddBike (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testgetBike - 2019.04.08 at 12h 50m 18s.xml">
+      <configuration name="MyBikeImplTest.testgetBike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testgetBike - 2019.04.08 at 12h 51m 10s.xml">
+      <configuration name="MyBikeImplTest.testgetBike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testgetBike - 2019.04.08 at 12h 54m 40s.xml">
+      <configuration name="MyBikeImplTest.testgetBike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testAddUser_(1) - 2019.04.08 at 12h 54m 46s.xml">
+      <configuration name="MyBikeImplTest.testAddUser (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testAddStations_(1) - 2019.04.08 at 12h 54m 51s.xml">
+      <configuration name="MyBikeImplTest.testAddStations (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testAddBike_(1) - 2019.04.08 at 12h 54m 55s.xml">
+      <configuration name="MyBikeImplTest.testAddBike (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testgetBike - 2019.04.08 at 12h 55m 08s.xml">
+      <configuration name="MyBikeImplTest.testgetBike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBikeImplTest_testAddBikeInSatationNotFoundExcecption - 2019.04.08 at 13h 00m 53s.xml">
+      <configuration name="MyBikeImplTest.testAddBikeInSatationNotFoundExcecption" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20943135" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.041608877" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.054441262" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.055240795" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3252149" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32808024" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -417,12 +438,12 @@
       <window_info id="Image Layers" order="4" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.041608877" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.054441262" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.055240795" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.3252149" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32808024" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -439,104 +460,64 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyBike.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyBike.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/StationFullException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/StationNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bike.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Station.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyBikeImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.dsa/Bike.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/StationNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/UserNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyBikeImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/StationFullException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Station.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/MyBike.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Bike.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/MyBikeImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/services/MyBikeService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu.eetac.dsa/services/MyBikeService.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu.upc.eetac.dsa/MyBikeImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2703">
-          <caret line="159" column="4" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StationFullException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Station.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        <state relative-caret-position="616">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StationNotFoundException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UserNotFoundException.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/User.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Station.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MyBikeImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="221">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2301#2307#0" expanded="true" />
-            <element signature="e#3069#3242#0" expanded="true" />
-            <element signature="e#3241#3242#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.dsa/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/StationNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/UserNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -547,163 +528,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MyBikeImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/StationFullException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Station.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/MyBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/MyBikeImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2773#2779#0" expanded="true" />
-            <element signature="e#3091#3264#0" expanded="true" />
-            <element signature="e#3263#3264#0" expanded="true" />
-            <element signature="e#4197#4203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.upc.eetac.dsa/services/MyBikeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu.eetac.dsa/services/MyBikeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu.upc.eetac.dsa/MyBikeImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/upc/eetac/dsa/MyBikeImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Station.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1173">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="129" column="1" lean-forward="true" selection-start-line="129" selection-start-column="1" selection-end-line="129" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="106">
+          <caret line="99" column="26" lean-forward="true" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/services/MyBikeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+        <state relative-caret-position="602">
+          <caret line="107" column="5" lean-forward="true" selection-start-line="107" selection-start-column="5" selection-end-line="107" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1437#1449#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/upc/eetac/dsa/MyBikeImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1690">
-          <caret line="151" lean-forward="true" selection-start-line="151" selection-end-line="151" />
+        <state relative-caret-position="34">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
-            <element signature="e#4197#4203#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2773#2779#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -56,7 +56,7 @@ private MyBike mb;
         try {
             listabicis = this.mb.bikesByUser(user);
             GenericEntity<List<Bike>> entity = new GenericEntity<List<Bike>>(listabicis){};
-
+            //return Response.status(201) entity(numerobicis).build(); --> en caso de que te pidan un int, no se pone lo de antes y solo se pone eso.
             return Response.status(201).entity(entity).build();
             }
         catch (Exception e){
@@ -80,6 +80,7 @@ private MyBike mb;
     public Response addUser ( User u){
         mb.addUser(u.getNombre(), u.getSurname(), u.getIdUser());
         return Response.status(201).build();
+
     }
 
     @POST
